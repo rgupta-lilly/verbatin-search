@@ -1,0 +1,46 @@
+Verbatim,To Be Coded,LLT,Status
+Feeling drugged,Feeling drugged,Feeling abnormal,ACTIVE
+Feeling drugged,Feeling drugged,Feeling stoned,ACTIVE
+Feeling drugged,Feeling drugged,Sedation,ACTIVE
+Purple blotch on skin,Purple blotch on skin,Skin discolouration,ACTIVE
+Purple blotch on skin,Purple blotch on skin,Skin hyperpigmentation,ACTIVE
+Purple blotch on skin,Purple blotch on skin,Contusion,ACTIVE
+Skin is supersensitive,Increased skin sensitivity,Increased skin sensitivity,ACTIVE
+Skin is supersensitive,Increased skin sensitivity,Hyperaesthesia skin,ACTIVE
+Skin is supersensitive,Increased skin sensitivity,Skin sesnsitization,ACTIVE
+Oozy,Feeling oozy,Feeling abnormal,ACTIVE
+Oozy,Feeling oozy,Dizzy,ACTIVE
+Oozy,Feeling oozy,Confusional state,ACTIVE
+Under weather,Under weather,Feeling sick,ACTIVE
+Hands could not move,Movement disorder,Movement disorder,ACTIVE
+Allergy to chlorine,Allergy to chemicals,Allergy to chemicals,ACTIVE
+Feeling yucky,Feeling bad,Feeling abnormal,ACTIVE
+Bruised more easily,Tendency to bruise easily,Increased tendency to bruise ,ACTIVE
+Cannot go out in sun and gets red blotches all over her skin,Sun sensitivity,Photosensitivity reaction,ACTIVE
+Medication got onto her,Accidental exposure while administering drug,Accidental exposure to product ,ACTIVE
+The pain did not fire,Product dose omission,Product dose omission,ACTIVE
+Oozy,Feeling abnormal,Feeling abnormal,ACTIVE
+Feeling Oozy,Dizziness,Dizziness,ACTIVE
+Oozy,Confusional state,Confusional state,ACTIVE
+Got pregnant while on medication,Maternal exposure during pregnancy,Maternal exposure during pregnancy,ACTIVE
+Wanted to commit suicide,Suicidal ideation,Suicidal ideation,ACTIVE
+Could not administer full dose due to device issue,Accidental underdose,Accidental underdose,ACTIVE
+Could not administer full dose due to device issue,Incomplete dose administered,Underdose,ACTIVE
+Decay of overall health,General physical health deterioration,General physical health deterioration,ACTIVE
+Not keeping blood sugar regulated,Blood glucose abnormal,Blood glucose abnormal,ACTIVE
+Liver not working anymore,Impaired liver function ,Hepatic function abnormal ,ACTIVE
+Liver has gone,Liver disorder,Liver disorder,ACTIVE
+Kidney shut down,Renal failure,Renal failure,ACTIVE
+Red raised spots around the injection site similar to rash,Injection site rash,Injection site rash,ACTIVE
+Slept for greater than 20 hours per day for a fewdays,Sleep excessive,Hypersomnia,ACTIVE
+Mark of the needle remains in the injection site,Needle track marks,Needle track marks ,ACTIVE
+Patient collapsed,Loss of consciousness,Loss of consciousness,ACTIVE
+Patient collapsed,Circulatory collapse,Circulatory collapse,ACTIVE
+Legs feeling wobbly,Lower extremities weakness of,Muscular weakness,ACTIVE
+About to faint,Felt faint,Felt faint,ACTIVE
+Almost faint,Felt faint,Felt faint,ACTIVE
+Fluid built up in chest,Pleural effusion,Pleural effusion,ACTIVE
+Oozyx,asfa,acac,ACTIVE
+ascasca,askjdhaskask,HY,ACTIVE
+Washed out,Fatigue,Fatigue,ACTIVE
+Feeling swayed,Dizziness,Dizziness,ACTIVE
